@@ -1,9 +1,8 @@
 <!-- ![Header](./assets/images/Wallpapers/wallpaper_02.jpg) -->
+
 ![Header](./assets/images/completion.jpg)
 
-
 # IBM Qiskit Global Summer School 2024 Solution
-
 
 This repository includes my solution for the QGSS 2024. Below is the list of labs I completed. Each notebook is properly documented. To run, first install the required packages. Keep in mind that the graders won't work for you. And you will need an API token from IBM Quantum if you wish to run on real Quantum Hardware.
 
@@ -24,13 +23,12 @@ pip install networkx -q
 pip install git+https://github.com/qiskit-community/Quantum-Challenge-Grader.git -q
 ```
 
-|   :warning:   |              Graders won't work for you               |
-|---------------|:------------------------------------------------------|
+| :warning: | Graders won't work for you |
+| --------- | :------------------------- |
 
-
-|    :memo:     |   You will need an API token from IBM quantum to run on real Quantum Hardware    |
-|---------------|:----------------------------------------------------------------------------------|
+| :memo: | You will need an API token from IBM quantum to run on real Quantum Hardware |
+| ------ | :-------------------------------------------------------------------------- |
 
 ![Header](./assets/images/QGSS2024-Certificate.jpg)
-<!-- ![Header](./assets/images/QGSS2024.png) -->
 
+<!-- ![Header](./assets/images/QGSS2024.png) -->
